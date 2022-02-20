@@ -184,7 +184,8 @@ element.style {
                             <li><a href="https://delgon.co/blog" style="padding-left: 15px;">Blog</a></li>
                             <li><a href="https://delgon.co/#" style="padding-left: 15px;">Contacts & Terms</a></li>
 								
-                            <li><a href="" style="padding-left: 30px;">Login/Register</a></li>
+                            <li><a href="https://delgon.co/customer/login" style="padding-left: 30px;">Login</a></li>
+							<li><a href="https://delgon.co/client-registration">Register</a></li
 								
                             </li>
                             
@@ -243,7 +244,7 @@ element.style {
                                 <a href="https://delgon.co/search-engine-optimization" class="btn-blue " style="text-shadow: rgb(0 0 0) 2px 2px 4px;background-color:#5e9d11;margin-left:1700px;margin-top:100px;">View</a>
                             </div>	
                         </div>
-						<div class="swiper-slide" style="background-image:url(https://blackvue.com/wp-content/uploads/2017/04/cloud-maintenance.jpg);"   >
+						<div class="swiper-slide" style="background-image:url(https://bleuwire.com/wp-content/uploads/2018/12/Cloud-Computing-Solution.jpg);"   >
                           <div class="swiper-content7 d-none d-md-block" data-animation="animated fadeInDown">
                                <!-- <h2>Book a ticket & Just Leave</h2>-->
                                 <h1 style="text-shadow: rgb(0 0 0) 2px 2px 4px;"></h1>
